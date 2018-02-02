@@ -9,3 +9,4 @@ https://github.com/Microsoft/CNTK/
 https://github.com/dialogflow/dialogflow-dotnet-client
 - NoSQL Document Store: https://github.com/mbdavid/LiteDB
 - ASP.NET's background tasks runner and scheduler: https://github.com/VahidN/DNTScheduler
+- ParallelTaskQueueRx: https://github.com/1iveowl/ParallelTaskQueueRx
